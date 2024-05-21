@@ -3,7 +3,7 @@
 This report contains details relating to the following three issues:
         1. Exploratory data analysis have carried out with the IMDB data.
         2. Hypothesis that have designed relating to the overall aim of this assignment and the experiments that have carried out to test whether they are supported by the data.
-        3. Actionable recommendations based on the analyses have conducted.
+        3. Suggested Actionable recommendations based on the analyses have conducted.
 
 ## Tech:
 Python, Numpy, Pandas, Matplotlib, jupyter notebook
